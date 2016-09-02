@@ -1,0 +1,9 @@
+Python Lesson 1
+Programming language is use to communicate only with computer.
+In 1980s Guido Van Rossum created a computer language called python.
+Every programming language has different ways to translate assembly codes and source codes into machine code.
+Language like c use compiled languages to translate source codes into machine codes before it can be run.
+Some languages use interpreter languages to translate source codes into machine codes as it is being run.
+Python codes is compiled.
+Python carries both compiled languages and interpreter language.
+Python translate the languages into bytecode, so it can carry some benefit of both languages.

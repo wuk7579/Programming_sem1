@@ -1,0 +1,4 @@
+1.To instruct the program to take actions, all we have to do is call the function by name and put parentheses after it .
+2.functionName(). This function is called “call”.
+3.The thing that make Python really simple is taking user input
+4.variable  = input(“prompt for user input]”)

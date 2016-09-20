@@ -1,41 +1,30 @@
 
-
-print ("{:>>20}{:<<15}".format("receipt",""))
-
-
-
 def printf(word, number):
-    print("*{:>15} .... \t{:10.2f}".format(word, number))
+    print("*{:>15} ....... \t{:10.2f}".format(word, number))
 
-word = " Cheese Sandwich"
-number = 4.50
 
-printf(word, number)
+item1 = input("please enter item1:")
+price1 = float(input("please enter the price:"))
 
-word = "French Fires"
-number = 4.50
 
-printf(word, number)
+item2 = input("please enter item2:")
+price2 = float(input("please enter price2:"))
 
-word = "soda"
-number = 4.50
 
-printf(word, number)
+item3 = input("please enter item3:")
+price3 = float(input("please enter price3:"))
 
-word = "\n\tSubtotal:"
-number = 9.01
+subtotal = price1+ price2+ price3
+tax = subtotal*.8
+total = tax+ subtotal
+print ("{:>>25}{:<<20}".format("receipt",""))
 
-printf(word, number)
-
-word = "Tax:"
-number = 0.63
-
-printf(word, number)
-
-word = "Total:"
-number = 9.64
-
-printf(word, number) 
-
+printf(item1, price1)
+printf(item2, price2)
+printf(item3, price3)
+print("\n");
+printf("subtotal:", subtotal)
+printf("Tax:", tax)
+printf("Total:", total)
 print ("{:_<20}{:_>20}".format("_", ""))
 print ("* Thank you for your support*")

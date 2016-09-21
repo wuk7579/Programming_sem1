@@ -1,24 +1,20 @@
 
 
-print ("{:*^40}".format(""))
-
 def printf(word, year):
     print("*{:>12}\t{:>16}*".format(word, year))
 
-word = " Torrey Pines"
-year = "2016-2017"
+lname = input("please enter your last name:")
+fname = input("Please enter your first name:")
+year = input("Please enter the school year:")
+school = input("Which school do you go to?")
+subject = input("What is your subject?")
+title = input("Enetr your title:")
 
-printf(word, year)
+print ("{:*^40}".format(""))
 
-word = "Kevin"
-year = "Wu"
-
-printf(word, year)
-
-word = "Student"
-year = "computer Science"
-
-printf(word, year)
+printf(school, year)
+printf(fname, lname)
+printf(title, subject)
 
 print ("{:*^40}".format(""))
 

@@ -16,5 +16,6 @@ printf(school, year)
 printf(fname, lname)
 printf(title, subject)
 
-print ("{:*^40}".format(""))
+print ("{:*^40
+       }".format(""))
 

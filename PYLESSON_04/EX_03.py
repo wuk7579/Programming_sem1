@@ -1,4 +1,5 @@
 
+
 def format(r, p, n, t):
     return(p*(1+r/n)**(n*t))
 

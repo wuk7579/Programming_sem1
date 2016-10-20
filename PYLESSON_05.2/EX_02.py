@@ -1,3 +1,4 @@
+
 username = input("Setting up your username. Please enter the usename that you like to use:")
 password = input("Setting up your password. Please enter the password that you like to use:")
 

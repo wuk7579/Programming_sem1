@@ -1,7 +1,7 @@
 
 
 def format(r, p, n, t):
-    return(p*(1+r/n)**(n*t))
+    return((p*(1+r/n)**(n*t))/12)
 
 r = float(input("What is your interest rate?"))
 n = float(input("How many times the loan is compouded per year?"))

@@ -1,13 +1,14 @@
 
 number = int(input("Please enter a number:"))
-sum = 0
-num = number
 
+def sumdigit():
+    global sumt
+    sumt = 0
+    num = number
+    while num > 0:
+        sumt = sumt + (num % 10)
+        num = int(num/10)
 
-while num > 0:
-    sum = (num %10 + number)
-    print(sum)
-    num = int(sum/ 10)
-
-print("The sum of the digits in",number," is ", sum)
+sumdigit()
+print("The sum of the digits in",number," is ", sumt)
 

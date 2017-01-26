@@ -11,5 +11,5 @@ for i in range(0, 4):
 for t in xandO:
     output = ""
     for t in t:
-        output += t
+        output += t + " "
     print(output)

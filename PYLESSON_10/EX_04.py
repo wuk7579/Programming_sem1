@@ -1,16 +1,17 @@
+
 import random
-numsList = []
+numslist = []
 for i in range(0,4):
-    numslist.append([i])
+    numslist.append([])
     for j in range(0, 4):
-        numlist[i].append(random.randiant(0, 100))
+        numslist[i].append(random.randint(1, 101))
 for nums in numslist:
     output = ""
     for num in nums:
         output += str(num)+ " "
     print(output)
 
-div = int(input("please enter a num:")
+div = int(input("please enter a num:"))
 count = 0
 for nums in numslist:
     for num in nums:

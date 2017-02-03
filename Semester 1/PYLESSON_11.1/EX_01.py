@@ -3,26 +3,26 @@ class car:
         self.paint = p
         self.interior = i
         self.engine = e
-        self.tires =t
-    def setcustom(self, newpaint, newinterior, newengine, newtire):
-        self.paint = newpiant
-        self.interior = newinterior
-        self.engine = newengine
-        self.tires = newtire
+        self.tires = t
+    def setcustom(self, newPaint, newInterior, newEngine, newTire):
+        self.paint = newPaint
+        self.interior = newInterior
+        self.engine = newEngine
+        self.tires = newTire
     def getpaint(self):
         return self.paint
-    def get tinterior(self):
+    def getinterior(self):
         return self.interior
     def getengine(self):
         return self.engine
     def gettire(self):
-        return self.tire
+        return self.tires
 def main():
-    paint = int(input("please enter a paint color:"))
+    paint = input("please enter a paint color:")
     interior = input("please enter an interior:")
     engine = input("please enter an engine:")
     tire = input("please enter a tire:")
-    feature = car(piant, interior, engine, tire)
+    feature = car(paint, interior, engine, tire)
     print("your vehicle is ready....")
     print("paint", feature.getpaint())
     print("interior", feature.getinterior())

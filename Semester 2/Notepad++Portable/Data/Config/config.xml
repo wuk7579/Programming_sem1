@@ -5,8 +5,6 @@
         <File filename="C:\Users\wuk7579\Downloads\MyPage.zip" />
         <File filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\contextMenu.xml" />
         <File filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\WebLesson_02\UCSD.jpg" />
-        <File filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\WebLesson_02\Table.html" />
-        <File filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\WebLesson_01\aboutme.html" />
         <File filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Weblesson_03\list.html" />
     </History>
     <GUIConfigs>
@@ -16,7 +14,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="580" y="234" width="1288" height="700" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="623" y="242" width="1288" height="700" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>

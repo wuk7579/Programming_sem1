@@ -4,6 +4,7 @@
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
         <File filename="C:\Users\wuk7579\Downloads\MyPage.zip" />
         <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\contextMenu.xml" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\WebLesson_01\index.html" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -12,7 +13,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="136" y="172" width="1288" height="700" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="430" y="365" width="1288" height="700" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>

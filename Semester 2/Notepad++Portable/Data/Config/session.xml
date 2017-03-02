@@ -1,7 +1,22 @@
 <NotepadPlus>
     <Session activeView="0">
+<<<<<<< HEAD
         <mainView activeIndex="0">
             <File firstVisibleLine="0" xOffset="0" scrollWidth="110" startPos="18" endPos="18" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Weblesson_05\styling multiple item.html" backupFilePath="" originalFileLastModifTimestamp="1488434307" />
+=======
+<<<<<<< HEAD
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="296" startPos="112" endPos="112" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\WebLesson_02\Table.html" backupFilePath="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\backup\Table.html@2017-02-13_094516" originalFileLastModifTimestamp="1487007770" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1024" startPos="0" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\WebLesson_01\aboutme.html" backupFilePath="" originalFileLastModifTimestamp="1486663869" />
+=======
+        <mainView activeIndex="4">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="920" startPos="45" endPos="45" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Weblesson_03\New Index.html" backupFilePath="" originalFileLastModifTimestamp="1487908926" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1960" startPos="113" endPos="113" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Weblesson_03\New Table.html" backupFilePath="" originalFileLastModifTimestamp="1487908802" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1280" startPos="247" endPos="247" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Weblesson_03\New aboutme.html" backupFilePath="" originalFileLastModifTimestamp="1487909105" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1280" startPos="168" endPos="168" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\WebLesson_01\aboutme.html" backupFilePath="" originalFileLastModifTimestamp="1487909136" />
+            <File firstVisibleLine="12" xOffset="0" scrollWidth="920" startPos="447" endPos="447" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Weblesson_04\new index for lesson 4.html" backupFilePath="" originalFileLastModifTimestamp="1488089451" />
+>>>>>>> origin/master
+>>>>>>> origin/master
         </mainView>
         <subView activeIndex="0" />
     </Session>

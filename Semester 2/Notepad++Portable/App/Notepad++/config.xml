@@ -2,15 +2,16 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\wuk7579\Downloads\MyPage.zip" />
-<<<<<<< HEAD
-        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\contextMenu.xml" />
         <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\WebLesson_01\index.html" />
-=======
-        <File filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\contextMenu.xml" />
-        <File filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\WebLesson_02\UCSD.jpg" />
-        <File filename="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Weblesson_03\list.html" />
->>>>>>> origin/master
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\contextMenu.xml" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\WebLesson_02\UCSD.jpg" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_03\list.html" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_04\new index for lesson 4.html" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\WebLesson_01\aboutme.html" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_03\New aboutme.html" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_03\New Table.html" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_03\New Index.html" />
+        <File filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\WebLesson_02\Table for weblesson 05.html" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -19,11 +20,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-<<<<<<< HEAD
-        <GUIConfig name="AppPosition" x="430" y="365" width="1288" height="700" isMaximized="no" />
-=======
         <GUIConfig name="AppPosition" x="623" y="242" width="1288" height="700" isMaximized="no" />
->>>>>>> origin/master
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -49,7 +46,7 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="C:\Users\kevin\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\themes\Bespin.xml" />
+        <GUIConfig name="stylerTheme" path="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\themes\Bespin.xml" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="0" />
         <GUIConfig name="multiInst" setting="0" />
         <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" newStyleSaveDlg="no" isFolderDroppedOpenFiles="no" />

@@ -1,7 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0">
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1568" startPos="103" endPos="103" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_05\Table for weblesson 05.html" backupFilePath="" originalFileLastModifTimestamp="1488477988" />
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="152" startPos="40" endPos="40" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_06\css sheet.css" backupFilePath="" originalFileLastModifTimestamp="1488995004" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="654" startPos="240" endPos="240" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_06\second.html" backupFilePath="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\backup\second.html@2017-03-08_100235" originalFileLastModifTimestamp="1488996138" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="684" startPos="124" endPos="124" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\wuk7579\Desktop\Wu_Kevin\Semester 2\Weblesson_06\Index page.html" backupFilePath="" originalFileLastModifTimestamp="1488996091" />
         </mainView>
         <subView activeIndex="0" />
     </Session>

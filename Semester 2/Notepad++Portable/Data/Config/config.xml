@@ -2,7 +2,6 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_03\New aboutme.html" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\WebLesson_01\aboutme.html" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_04\new index for lesson 4.html" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_05\styling multiple item.html" />
@@ -12,6 +11,7 @@
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Notepad++Portable\App\Notepad++\contextMenu.xml" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\WebLesson_02\UCSD.jpg" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_03\list.html" />
+        <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_07\fixed.html" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>

@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font: bold 20px Tohoma;
+}
+
+h2{
+    font: bold 14px Tahoma;
+}
+
+header, section, footer, aside, nav, article, hgroup {
+    display: block;
+}
+
+body {
+    width: 100%;
+    display: -webkit-box;
+    -webkit-box-pack: center;
+}
+
+#bigwrapper {
+    border: 1px solid black;
+    wax-width: 1000px;
+    margin: 20px 0px;
+    display: -webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-box-flex: 1;
+}
+
+#topheader {
+    background: yellow;
+    border: 3px solid black;
+    padding: 20px;
+}
+
+#topmenu {
+    border: black;
+    background: blue;
+    color: white;
+}
+#topmenu li {
+    display: inline-block;
+    listt-style: none;
+    padding: 5px;
+    font: bold 14px Tahoma;
+}
+
+#flexdiv {
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+}
+
+#mainsection {
+    border: 1px solid purple;
+    -webkit-box-flex: 1;
+    margin: 20px;
+    padding: 20px;
+}
+#sidenews {
+    border: 1px solid blue;
+    width: 220px;
+    margin: 20px 0px;
+    padding: 30px;
+    background: #00d500;
+}
+
+#pagefooter {
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid black;
+    background-color: yellow;
+}

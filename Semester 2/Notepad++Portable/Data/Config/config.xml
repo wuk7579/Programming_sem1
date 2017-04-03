@@ -2,7 +2,6 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_05\styling multiple item.html" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_05\List.html" />
         <File filename="C:\Users\wuk7579\Downloads\MyPage.zip" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\WebLesson_01\index.html" />
@@ -12,6 +11,7 @@
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_07\fixed.html" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_09\main.css" />
         <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_09\Weblesson_09.html" />
+        <File filename="C:\Users\Kai Yang\Desktop\Wu_Kevin\Semester 2\Weblesson_13\weblesson_13.html" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -20,7 +20,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="752" y="321" width="1049" height="700" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="679" y="362" width="1049" height="700" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>

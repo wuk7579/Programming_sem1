@@ -7,5 +7,5 @@ function validate() {
             <br/> "You did not provide a valid email address "
             <br/>"Your password does not meet the minimum requirements");
     else
-        alert("success");
+        alert("success!!!");
 }

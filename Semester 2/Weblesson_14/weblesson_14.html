@@ -3,22 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Login web</title>
-    <script src = "script.js"></script>
+    <script src = "scripts.js"></script>
 </head>
 <body>
     <form name = "input">
-        Username: <input type = "text" name = "username"/></body><br/><br/>
+        Username: <input type = "text" name = "username"/><br/><br/>
         Password: <input type = "password" name = "password"/><br/><br/>
         <input type = "submit" value = "Submit!" onclick = "validate()"/>
     </form>
-    <script>
-        function validate(){
-        var x = document.forms.input.username.value;
-        var atpos = x.indexOf("@")
-        var dotpos = x.lastIndexOf(".")
-        if(atpos < 1 || dotpos < atpos+2 || dotpos + 2 > x.length)
-            alert("This is not a valid email address!");
-        }
-    </Script>
 </body>
 </html>

@@ -1,17 +1,19 @@
-#leftBox {
+#left{
     float: left;
-    width: 250px;
-    height: 250px;
+    width: 500px;
+    height: 129px;
     margin: 5px;
-    border: 3px solid teal;
+    border: 5px solid blue;
 }
-#rightBox {
+
+#right{
     float: left;
-    width: 250px;
-    height: 250px;
+    width: 500px;
+    height: 129px;
     margin: 5px;
-    border: 3px solid green;
+    border: 5px solid red;
 }
-#pikachu {
-    max-height: 200px;
-}
+
+#clippers{
+    max-width: 500px;
+}}

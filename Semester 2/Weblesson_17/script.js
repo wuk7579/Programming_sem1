@@ -1,34 +1,41 @@
 function drag() {
-    pikachu = document.getElementById("pikachu");
-    leftbox = document.getElementById("leftbox");
-    pikachu.addEventListener("dragstart", startDrag, false);
-    pikachu.addEventListener("dragend", endDrag, false);
+    clip = document.getElementById("pika");
+    leftbox = document.getElementById("left");
+
+    clip.addEventListener("dragstart", startDrag, false);
+    clip.addEventListener("dragend", endDrag, false);
+
     leftbox.addEventListener("dragenter", dragEnter, false);
     leftbox.addEventListener("dragleave", dragLeave, false);
-    leftbox.addEventListener("dragover", function(e) {e.preventDefault()});
+    leftbox.addEventListener("dragover", function(e){e.preventDefault()}, false);
     leftbox.addEventListener("drop", drop, false);
 }
+
 function startDrag(e) {
-    var pic = '<img id = "pikachu" src = "https://www.gannett-cdn.com/-mm-/2f82a576ef5786ba3b027db0c17c35a5d71827f8/c=0-0-475-475&r=x203&c=200x200/local/-/media/2016/07/22/FortMyers/FortMyers/636047918655611038-STGBrd-07-18-2016-Spectrum-1-A001--2016-07-17-IMG-pikachu-1-1-B6F13IBP-L846611140-IMG-pikachu-1-1-B6F13IBP.jpg" >
-    e.dataTransfer.setData('picture', pic);
-}
-function drop(e) {
-    e.preventDefault();
-    left.innerHTML = e.dataTransfer.getData('picture');
+    var pic = '<img id = "pika" src = "http://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png">';
+    e.dataTransfer.setData('Picture', pic);
 }
 
 function dragEnter(e) {
     e.preventDefault();
-    leftbox.style.background = "lightblue";
-    leftbox.style.border = "3px solid green"
+    leftbox.style.background = "#00FFFF";
+    leftbox.style.border = "5px dashed blue";
 }
+
 function dragLeave(e) {
     e.preventDefault();
-    leftbox.style.background = "yellow";
-    leftbox.style.border = "3px solid orange"
+    leftbox.style.background = "#00FF00";
+    leftbox.styleborder = "5px dotted blue";
 }
+
+function drop(e) {
+    e.preventDefault();
+    left.innerHTML = e.dataTransfer.getData('Picture');
+}
+
 function endDrag(e) {
     pic = e.target;
     pic.style.visibility = "hidden";
 }
+
 window.addEventListener("load", drag, false);

@@ -3,8 +3,8 @@ function shapes(){
     canvas = x.getContext("2d");
     var g = canvas.createLinearGradient(10, 10, 700, 520);
     g.addColorStop(0, "blue");
-    g.addColorStop(0.4, "green");
-    g.addColorStop(0.7, "yellow");
+    g.addColorStop(0.3, "white");
+    g.addColorStop(0.6, "yellow");
     canvas.fillStyle = g;
     canvas.beginPath();
     canvas.moveTo(200, 0);
